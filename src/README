@@ -1,0 +1,15 @@
+Final Idea: Pet Game
+
+# of command line arguments: 0
+
+Home screen: select character and setting then click start game
+
+Game screen:
+* Animal moves around the screen, back and forth
+* When plant button clicked, plant will fall from random position in the sky to the ground
+* If the animal eats with the plant, hunger bar increases
+* Animal will generate waste when fed
+* Press clean up button to clean up waste
+* Health will deteriorate when hunger falls to 0
+* Animal dies when health falls to 0
+* Press revive button to revive a dead animal
